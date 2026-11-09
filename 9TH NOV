@@ -23,7 +23,7 @@ class Solution {
 
 
 
-MERGE STRINGS ALTERNATIVELY 
+Q 2)MERGE STRINGS ALTERNATIVELY 
 
 class Solution {
     public String mergeAlternately(String word1, String word2) {
